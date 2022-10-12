@@ -4,13 +4,14 @@
 ------
 ### 👉 **Setup:**
 
-The repo you will be cloning down is a react native expo project. Please ensure you have your environment setup and can run both the `iOS` and `android` simulators as you will be required to have both open while working on this task.
+The repo you will be cloning down is a react native expo project. Please ensure you have your environment setup and can run an `iOS` or `android` simulator as you will be required to have it open while working on this task.
 
 You can clone the project at:
 ```bash
-git clone https://username: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@github.com/joshuaaron/fans-rn-challenge.git
+git clone https://github.com/kevinsalter/fans-rn-challenge.git
 ```
 
+Run `npm install` and then `expo start` to get started.
 
 ### 👉 **Details:**
 
